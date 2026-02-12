@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67a206e9b0c8008079a9044e"
+  },
+  "name": "Waein Cup",
+  "description": "Waein Cup Competition : Wear TKD Jersey",
+  "date": "2025-02-12"
+},
+{
+  "_id": {
+    "$oid": "67a470db523ecee439beb734"
+  },
+  "name": "POLITE",
+  "description": "Pomsae Competition",
+  "date": "2025-02-11"
+},
+{
+  "_id": {
+    "$oid": "67a47e0e523ecee439beb735"
+  },
+  "name": "Grading Day 2",
+  "description": "Wear Full Dobok",
+  "date": "2025-02-09"
+},
+{
+  "_id": {
+    "$oid": "67a7717b6149b86b8c3cbfae"
+  },
+  "name": "Taekwondo End Of Year Celebration",
+  "description": "5pm Onwards, Dinner and Games ",
+  "date": "2025-02-11"
+}]

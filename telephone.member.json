@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6783bfd9542b96d15f76fc1b"
+  },
+  "email": "21023456g@gmail.com",
+  "password": "$2b$10$CxWEUS6BXP9MaHqIZEH8t.DaSJmGpqsOE7PZYa2V97jqxqLSzKEQ2"
+},
+{
+  "_id": {
+    "$oid": "6783c39e4883c978089a401d"
+  },
+  "email": "20012456g@gmail.com",
+  "password": "$2b$10$PdT2fak3EC3F/DrFKiGy2uYo37r.cCt5YEnWVTgawNxPMqRTqCaey"
+},
+{
+  "_id": {
+    "$oid": "67a6de54fc06056867f41734"
+  },
+  "email": "2301245c@student.tp.edu.sg",
+  "password": "$2b$10$.PoyfGyI8WSwU8CdIAvaJ.2NeQQt7Xf6l8u9NX4w.NUlXIDDX.Dcm"
+},
+{
+  "_id": {
+    "$oid": "67a8a5f259615522e6776dd6"
+  },
+  "email": "24073285g@student.tp.edu.sg",
+  "password": "$2b$10$7YD4UVJiT0gCM8JS3wp8delsdWEH5Oqqm1wHvq4dxWo2daz2VD53."
+}]

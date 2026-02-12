@@ -1,0 +1,17 @@
+.eventButton{
+    background-color: randomColor;
+    border: 'none';
+    padding: '10px';
+    margin-left: '50px';
+    margin-bottom:'50px';
+    border-radius: '8px';
+    cursor: 'pointer';
+    width: '50%';
+    text-align: 'right'
+}
+
+.event-day {
+                background-color:rgb(221, 82, 51) !important;
+                border-radius: 50%;
+                color: white;
+            }

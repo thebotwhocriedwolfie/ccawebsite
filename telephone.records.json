@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "676958c304af1a301a6ce4ec"
+  },
+  "name": "Bryan Teo",
+  "email": "22023456G",
+  "year": "3",
+  "school": "Engineering",
+  "belt": "Black"
+},
+{
+  "_id": {
+    "$oid": "67728166035f6bcf43dd4a9c"
+  },
+  "name": "Daniel Tan",
+  "email": "220876543@student.tp.edu.sg",
+  "year": "3",
+  "school": "Design",
+  "belt": "Red"
+},
+{
+  "_id": {
+    "$oid": "677281cc035f6bcf43dd4a9d"
+  },
+  "name": "Mei Loh",
+  "email": "22045678@student.tp.edu.sg",
+  "year": "3",
+  "school": "Design",
+  "belt": "Black"
+},
+{
+  "_id": {
+    "$oid": "678385a190f6984749b02df6"
+  },
+  "name": "Abigail Tam",
+  "email": "24073285G@student.tp.edu.sg",
+  "year": "1",
+  "school": "Applied Sciences",
+  "belt": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "67a61dfe3cc283f82dcda706"
+  },
+  "name": "testuser",
+  "email": "gggg@gmail.com",
+  "year": "2",
+  "school": "Design",
+  "belt": "Blue",
+  "Mobile": null
+},
+{
+  "_id": {
+    "$oid": "67a7822bbd267d48cb8cba62"
+  },
+  "name": "Ashley Tay\t\t",
+  "email": "22012345R@gmail.com",
+  "year": "3",
+  "school": "Humanities",
+  "belt": "Black",
+  "Mobile": null
+}]
